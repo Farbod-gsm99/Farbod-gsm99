@@ -1,4 +1,7 @@
-## Hi there 👋
+## Hi, I'm Farbod 👋
+I am a transportation engineer and an AI systems developer.
+I'm mostly into experimenting on AI-driven and data-centric solutions to problems in transportation and traffic engineering.
+
 
 <!--
 **Farbod-gsm99/Farbod-gsm99** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
