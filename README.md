@@ -8,6 +8,7 @@ I'm particularly enthusiastic about the evolving landscape of Large Language Mod
 🚀 Current Endeavors
 
 Learning: Expanding my skill set in data science to manage and interpret transportation data more effectively.
+
 Developing: Automating data collection and processing pipelines to transition my static traffic flow prediction model into a dynamic, real-time system.
 
 🎮 A Bit More About Me
